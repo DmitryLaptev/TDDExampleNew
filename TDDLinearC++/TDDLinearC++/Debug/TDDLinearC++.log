@@ -1,0 +1,4 @@
+﻿  SystemOfLinearEquation.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,19): warning C4101: step2: неиспользованная локальная переменная
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,12): warning C4101: step1: неиспользованная локальная переменная
+  TDDLinearC++.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\Debug\TDDLinearC++.exe

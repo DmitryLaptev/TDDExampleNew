@@ -1,0 +1,26 @@
+﻿  LinTest.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(17,22): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(19,54): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,1): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "const T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=LinearEquation
+          ]
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(38,6): message : может быть "bool operator ==(LinearEquation &,LinearEquation &)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,1): message : или       "встроенный оператор C++==(bool, bool)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,1): message : при попытке сопоставить список аргументов "(const T, const T)"
+          with
+          [
+              T=LinearEquation
+          ]
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\UnitTest1\LinTest.cpp(54): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual<LinearEquation>(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+          with
+          [
+              T=LinearEquation
+          ]
+  SystemOfLE.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(5,62): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,19): warning C4101: step2: неиспользованная локальная переменная
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,12): warning C4101: step1: неиспользованная локальная переменная
+  Создание кода...

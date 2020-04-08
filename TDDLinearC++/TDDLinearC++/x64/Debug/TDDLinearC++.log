@@ -1,0 +1,12 @@
+﻿  LinearEquation.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(17,22): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(19,54): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\LinearEquation.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SystemOfLinearEquation.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(5,62): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,19): warning C4101: step2: неиспользованная локальная переменная
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\SystemOfLinearEquation.cpp(13,12): warning C4101: step1: неиспользованная локальная переменная
+  TDDLinearC++.cpp
+C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\TDDLinearC++\TDDLinearC++.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  TDDLinearC++.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\TDDLinearC++\x64\Debug\TDDLinearC++.exe
