@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\obj\Debug\Task2CSharp.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\bin\Debug\Task2CSharp.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\bin\Debug\Task2CSharp.exe
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\bin\Debug\Task2CSharp.pdb
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\obj\Debug\Task2CSharp.exe
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\Task2CSharp\obj\Debug\Task2CSharp.pdb
