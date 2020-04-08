@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\bin\Debug\TddExample.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\bin\Debug\TddExample.exe
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\bin\Debug\TddExample.pdb
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\obj\Debug\TddExample.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\obj\Debug\TddExample.exe
+C:\Users\Дмитрий Лаптев\source\repos\TddExample\TddExample\obj\Debug\TddExample.pdb
